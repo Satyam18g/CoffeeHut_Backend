@@ -1,2 +1,2 @@
 
-- Product 1: 0 (Save  with Coffehut_Wallet)
+- Product 1: 10 % (Save  with Coffehut_Wallet)
